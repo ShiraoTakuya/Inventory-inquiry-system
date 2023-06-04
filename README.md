@@ -22,6 +22,10 @@
 
 ![demo](https://raw.githubusercontent.com/ShiraoTakuya/Inventory-inquiry-system/main/cap3.PNG)
 
+受領完了メール画面
+
+![demo](https://raw.githubusercontent.com/ShiraoTakuya/Inventory-inquiry-system/main/cap4.PNG)
+
 以下のリンクにアクセスすると動作確認できます
 * http://genuine.php.xdomain.jp/purchase/index.html
   
