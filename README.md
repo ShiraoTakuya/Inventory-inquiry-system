@@ -37,6 +37,8 @@
  
 ![system_diagram](https://raw.githubusercontent.com/ShiraoTakuya/Inventory-inquiry-system/main/system_diagram.png)
 
+商品情報はデータベースに入っています。データベースに入っている分だけ画面に表示されます。
+
 # Author
   
 * ShiraoTakuya
